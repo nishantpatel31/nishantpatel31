@@ -33,7 +33,7 @@
 
 - :zap: I solve problems on various sites of Competitetive Programming and read tech articles.
 
--  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/) and <a href="https://kaustubh1111.github.io/Portfolio_Website/" target="blank">Portfolio Website</a>
+-  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nishantpatel31-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishantpatel3131/) and <a href="https://nishantpatel31/Portfolio_Website/" target="blank">Portfolio Website</a>
  
 
 
